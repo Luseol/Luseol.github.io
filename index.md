@@ -246,3 +246,9 @@ HP가 0 이하가 될 경우 캐릭터가 사망하며 시작 지점에서 다�
 # 1주차 작업 결과
 
 # 2주차 작업 결과
+![1](https://user-images.githubusercontent.com/91230459/140071531-789d69a8-1581-425d-86c5-8afa39bc5f11.PNG)
+
+![2](https://user-images.githubusercontent.com/91230459/140071584-dc52027e-24b0-4f7b-b755-4c716b897fcb.PNG)
+
+
+![01](https://user-images.githubusercontent.com/91230459/140071612-7ef5afed-b05c-47dc-b013-5e9e36c156c4.gif)
