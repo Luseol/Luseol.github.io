@@ -315,3 +315,10 @@ HP가 0 이하가 될 경우 캐릭터가 사망하며 시작 지점에서 다�
 
 
 https://user-images.githubusercontent.com/91230459/141215689-2a8bf847-8622-4673-b036-238f4e2e9998.mp4
+
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="3w.mp4" type="video/mp4">
+  </video>
+</figure>
