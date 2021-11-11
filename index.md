@@ -310,8 +310,4 @@ HP가 0 이하가 될 경우 캐릭터가 사망하며 시작 지점에서 다�
 3) 캐릭터와 함정이 충돌 시 캐릭터의 체력을 감소 시킴 - 100%
 4) F키를 통한 오브젝트와의 상호작용 완성 - 100%
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="Desktop 2021.11.11 - 01.45.31.01.mp4" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/91230459/141215689-2a8bf847-8622-4673-b036-238f4e2e9998.mp4
