@@ -325,11 +325,9 @@ HP가 0 이하가 될 경우 캐릭터가 사망하며 시작 지점에서 다�
 4) F키를 통한 오브젝트와의 상호작용 완성 - 100%
 
 
-https://user-images.githubusercontent.com/91230459/141215689-2a8bf847-8622-4673-b036-238f4e2e9998.mp4
-
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="3w.mp4" type="video/mp4">
+    <source src="https://user-images.githubusercontent.com/91230459/141218819-ff25aad9-664a-4f28-9993-56f5574c87e2.mp4" type="video/mp4">
   </video>
 </figure>
