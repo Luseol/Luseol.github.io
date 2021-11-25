@@ -362,6 +362,11 @@ HP가 0 이하가 될 경우 캐릭터가 사망하며 시작 지점에서 다�
 
 4. 캐릭터의 체력이 회복되면 이동 속도가 원래대로 줄어들도록 설정 -> 100%
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91230459/143329722-353d9416-ab3e-44dc-8ca6-19d262dbf109.mp4" type="video/mp4">
+  </video>
+</figure>
 
 
 # 5주차 작업 결과
@@ -392,3 +397,9 @@ HP가 0 이하가 될 경우 캐릭터가 사망하며 시작 지점에서 다�
 
 4. 캐릭터를 시작 지점으로 이동 시킨 후 캐릭터의 체력을 다시 100으로 설정 -> 100%
 
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91230459/143329751-3ba9ab18-bbdd-4204-b3f5-a6c9ddbcd645.mp4" type="video/mp4">
+  </video>
+</figure>
